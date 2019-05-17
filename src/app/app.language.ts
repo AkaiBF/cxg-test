@@ -3,13 +3,15 @@ export const language = {
 		Noticias: "Noticias",
 		Equipo: "Equipo",
 		Tienda: "Tienda",
-		Patrocinadores: "Patrocinadores"
+		Patrocinadores: "Patrocinadores",
+		Siguenos: "Síguenos"
 	}, 
 	en: {
 		Noticias: "News",
 		Equipo: "Team",
 		Tienda: "Store",
-		Patrocinadores: "Partners"
+		Patrocinadores: "Partners",
+		Siguenos: "Follow us"
 	}
 	
 }
